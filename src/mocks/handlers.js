@@ -8,7 +8,12 @@ export const handlers = [
     sessionStorage.setItem("is-authenticated", "true");
     return res(
       // Respond with a 200 status code
-      ctx.status(200)
+      ctx.status(200),
+      ctx.json({
+        user:{
+          username:"ferhat",
+        },
+      })
     );
   }),
   // Handles a GET /user request

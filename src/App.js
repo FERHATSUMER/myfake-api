@@ -15,6 +15,11 @@ function App() {
     console.log(responseJson);
   };
 
+  const loadProducts = async()=>{
+    const response =await(await fetch("/products")).json();
+    console.log(response)
+  }
+
   return (
     <div className="App">
       <button onClick={login}>login</button>

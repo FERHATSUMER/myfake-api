@@ -40,6 +40,26 @@ export const handlers = [
           "https://hbomax-images.warnermediacdn.com/images/GXssObwqZrVVGwwEAAABI/tileburnedin?size=1280x720&partner=hbomaxcom&v=3bc48f5acb6ae22a36509f0ac92063d0&host=art-gallery.api.hbo.com&language=en-us&w=1280",
       
       },
+
+      {
+        id: 4,
+        title: "Jhon Wick",
+        imageUrl:
+          "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg ",
+      
+      },
+      {
+        id: 5,
+        title: "Jhon Wick 2",
+        imageUrl:
+          "https://i2.sdacdn.com/haber/2016/12/21/john-wick-2-filmi-9086624_amp.jpg ",
+      },
+      {
+        id: 6,
+        title: "Jhon Wick 3",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe5DkzUdDySGIe9eKkOfpgZGG09RhrszNz-g&usqp=CAU ",
+      },
     ];
 
     if (limit) {

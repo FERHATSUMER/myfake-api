@@ -23,24 +23,22 @@ export const handlers = [
     let products = [
       {
         id: 1,
-        title: "Product - 1",
+        title: "harry potter and the philosopher's stone",
         imageUrl:
-          "https://images.unsplash.com/photo-1638469834848-e4b859f23918?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-        price: 100,
+          "https://images.justwatch.com/poster/87608067/s718/harry-potter-and-the-philosophers-stone.%7Bformat%7D",
       },
       {
         id: 2,
-        title: "Product - 2",
+        title: "Harry Potter 2 And The Chamber of Secrets (Movie) – Ninenovel",
         imageUrl:
-          "https://images.unsplash.com/photo-1638469834848-e4b859f23918?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-        price: 100,
+          "https://ninenovelhome.files.wordpress.com/2020/03/harry-potter-and-the-chamber-of-secrets.jpg",
       },
       {
         id: 3,
-        title: "Product - 3",
+        title: "Harry Potter and the Prisoner of Azkaban",
         imageUrl:
-          "https://images.unsplash.com/photo-1638469834848-e4b859f23918?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-        price: 100,
+          "https://hbomax-images.warnermediacdn.com/images/GXssObwqZrVVGwwEAAABI/tileburnedin?size=1280x720&partner=hbomaxcom&v=3bc48f5acb6ae22a36509f0ac92063d0&host=art-gallery.api.hbo.com&language=en-us&w=1280",
+      
       },
     ];
 

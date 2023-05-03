@@ -60,6 +60,12 @@ export const handlers = [
         imageUrl:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe5DkzUdDySGIe9eKkOfpgZGG09RhrszNz-g&usqp=CAU ",
       },
+      {
+        id: 7,
+        title: "Jhon Wick 4",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQffW1dAR6xAe_pW2W9pvEUbP1gZyzV31hiNw&usqp=CAU ",
+      },
     ];
 
     if (limit) {
